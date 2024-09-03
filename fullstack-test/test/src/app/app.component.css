@@ -1,0 +1,26 @@
+.title {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1640px;
+  height: 100px;
+  top: 0px;
+  background: #fafafb;
+  border: 1px solid #dddfe8;
+  border-radius: 0px;
+}
+
+.publishers {
+  position: absolute;
+  width: 1640px;
+  height: 864px;
+  top: 89px;
+  background: #f9f9f9;
+  border-radius: 0px;
+}
+
+.logo {
+  position: absolute;
+  width: 155px;
+  height: 30px;
+  background: url(/src/assets/logo.svg);
+}
